@@ -41,7 +41,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 * 軽量
 * 理解が容易
-* 習得が非常に困難
+* 習得は非常に困難
 // ★「習得は非常に困難」……「が」だと前の2つとandの関係（利点）のような感じがします。「は」のほうがbutっぽくていいかなーと。（akaesu0）
 
 // Scrum is a process framework 
@@ -117,8 +117,8 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 // Transparency requires those aspects be defined by a common standard 
 //		so observers share a common understanding of what is being seen.
 
-プロセスで重要なのは、
-成果物の責任者にプロセスが見える化されていることである。
+経験的プロセスで重要なのは、
+結果責任を持つ者に見える化されていることである。
 透明性は、この点がきちんと標準化され、
 関係者が共通理解を持つことを求めるものである。
 
@@ -396,7 +396,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	to maximize the value created by the Scrum Team.
 
 スクラムマスターは、
-スクラムチームとの相互作用で役に立つこと／立たないことを、
+スクラムチームとの対話で役に立つこと／立たないことを
 スクラムチームの外部の人たちに理解してもらうようにする。
 スクラムマスターは、
 みんなの相互作用の変化を手伝い、
@@ -1441,7 +1441,7 @@ KenとJeffがスクラムを数年間適用した経験から学んだことを�
 
 本ガイドは、Ken SchwaberとJeff Sutherlandによる英語版の翻訳である。
 日本語訳は、角征典（@kdmsnr）<kdmsnr@gmail.com> が担当した。
-翻訳のレビューには、@irohiroki、@takaesu0、@miholovesq、@sunaotが参加してくれた。
+翻訳のレビューには、@irohiroki、@takaesu0、@miholovesq、@sunaot、@kawagutiが参加してくれた。
 
 //Revisions
 ! 更新履歴
@@ -1501,6 +1501,7 @@ Jeff SutherlandとKen Schwaberが開発した
 
 
 // ! 翻訳更新履歴
+// * 2011-07-31    Reviewed by @kawaguti
 // * 2011-07-31    Reviewed by @sunaot
 // * 2011-07-29    Reviewed by @takaesu0
 // * 2011-07-28    Reviewed by @miholovesq

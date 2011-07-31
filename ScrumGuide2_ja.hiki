@@ -366,7 +366,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 重要な作業が成し遂げられる程度に多い人数である。
 開発チームのメンバが3人未満の場合は、
 相互作用が少なく、生産性の向上につながらない。
-また、チームの規模の小さいと、
+また、チームの規模が小さいと、
 スキル不足という理由から、
 スプリントで出荷判断可能なインクリメントを届けられない可能性もある。
 メンバが9人を超える場合は、調整の機会が多くなってしまう。
@@ -458,7 +458,8 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //"	Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
 
 * スクラムの導入を指導・コーチする。
-* スクラムの推進を計画する。
+// ★先導・コーチする（@sunaot）
+* 組織にあったスクラムの推進方法を計画する。
 * スクラムと経験的プロダクト開発を従業員や関係者に理解・実施してもらう。
 * スクラムチームの生産性を高めるような変化を促す。
 * 他のスクラムマスターと一緒に組織のスクラム導入の効果を高める。
@@ -477,7 +478,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 イベントを設けて規則性を作り出し、
 スクラムで定義されていない会議の必要性を最小限にしている。
 イベントには、時間に上限のあるタイムボックスを使う。
-これは、計画プロセスで時間を無駄にしないためである。
+これは、計画プロセスで時間を無駄にせず、必要な分だけ時間を使うようにするためである。
 
 //Other than the Sprint itself, 
 //	which is a container for all other events, 
@@ -876,7 +877,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 スクラムマスターは、
 デイリースクラムに参加できるのは
 開発チームのメンバだけというルールを設定する。
-デイリースクラムはステータスミーティングではなく、
+デイリースクラムは上司への進捗報告会ではない。
 プロダクトバックログの項目をインクリメントに変える人たちのものである。
 
 //Daily Scrums improve communications, eliminate other meetings, identify and remove impediments to development, highlight and promote quick decision-making, and improve the Development Team's level of project knowledge. This is a key inspect and adapt meeting.
@@ -973,7 +974,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //"	Identify and order the major items that went well and potential improvements; and,
 //"	Create a plan for implementing improvements to the way the Scrum Team does its work.
 
-* 人・関係・プロセス・ツールの観点から最後のスプリントを検査する。
+* 人・関係・プロセス・ツールの観点から今回のスプリントを検査する。
 * うまくいった項目や今後の改善点を特定・整理する。
 * スクラムチームの改善実施計画を作成する。
 
@@ -1053,7 +1054,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 プロダクトバックログは決して完成しない。
 開発の初期段階には、
-最初からわかっていた要求やよく理解できた要求が並べられている。
+最初から明確でよく理解できた要求が並べられている。
 プロダクトバックログは、
 プロダクトや使用環境に合わせて変化するのである。
 プロダクトバックログは動的であり、
@@ -1190,7 +1191,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 スクラムでは、
 プロダクトバックログの項目に費やした作業時間を考慮しない。
-残作業や日付といった数値は、参考値に過ぎない。
+参考にするのは、残作業や日付といった数値だけである。
 
 //Various trend burndown, burnup and other projective practices 
 //	have been used to forecast progress. 
@@ -1222,7 +1223,8 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 スプリントバックログは、
 プロダクトバックログから選択した項目と、
-インクリメントを届けてスプリントゴールを達成する計画を合わせたものである。
+その項目をプロダクトインクリメントにして届け、
+スプリントゴールを達成する計画とを合わせたものである。
 スプリントバックログは、
 開発チームが作成するインクリメントに含まれる機能と、
 その機能を届けるために必要な作業を表した予測である。
@@ -1249,7 +1251,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	and learns more about the work needed to achieve the Sprint Goal.
 
 スプリントバックログは、
-これからデイリースクラムで明らかになる十分に詳細な計画である。
+デイリースクラムで変更点が共有できる程度に詳細な計画である。
 スプリントでは、
 開発チームがスプリントバックログを修正し、
 スプリントバックログが明確化されていく。
@@ -1301,7 +1303,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 スクラムでは、
 スプリントバックログに費やした作業時間を考慮しない。
-残作業や日付といった数値は、参考値に過ぎない。
+参考にするのは、残作業や日付といった数値だけである。
 
 // Increment
 !! インクリメント
@@ -1411,7 +1413,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 彼らの助けがなければ、スクラムは今日のように洗練されてはいなかっただろう。
 David Starrは、
 見事な見識と編集能力を
-このスクラムガイドを提供してくれた。
+このスクラムガイドに提供してくれた。
 
 //History
 !! 歴史
@@ -1438,8 +1440,8 @@ KenとJeffがスクラムを数年間適用した経験から学んだことを�
 //This guide has been translated from the original English version, provided by Ken Schwaber and Jeff Sutherland. Contributors to the translation include [First name][Last name].
 
 本ガイドは、Ken SchwaberとJeff Sutherlandによる英語版の翻訳である。
-日本語訳は、角征典（a.k.a. kdmsnr） <kdmsnr@gmail.com> が担当した。
-翻訳のレビューには、@irohiroki、@takaesu0、@miholovesqが参加してくれた。
+日本語訳は、角征典（@kdmsnr）<kdmsnr@gmail.com> が担当した。
+翻訳のレビューには、@irohiroki、@takaesu0、@miholovesq、@sunaotが参加してくれた。
 
 //Revisions
 ! 更新履歴
@@ -1499,6 +1501,7 @@ Jeff SutherlandとKen Schwaberが開発した
 
 
 // ! 翻訳更新履歴
+// * 2011-07-31    Reviewed by @sunaot
 // * 2011-07-29    Reviewed by @takaesu0
 // * 2011-07-28    Reviewed by @miholovesq
 // * 2011-07-28    Reviewed by @takaesu0

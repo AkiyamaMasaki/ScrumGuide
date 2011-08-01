@@ -15,9 +15,9 @@
 // Purpose of the Scrum Guide
 ! スクラムガイドの目的
 
-// Scrum is a framework for developing and sustaining complex products 
+// Scrum is a framework for developing and sustaining complex products. 
 // This Guide contains the definition of Scrum. 
-// This definition consists of Scrum's roles, events, artifacts, and the rules that bind them together. Ken Schwaber and Jeff Sutherland developed Scrum; the Scrum Guide is written and provided by them. We stand behind the Scrum Guide.
+// This definition consists of Scrum's roles, events, artifacts, and the rules that bind them together. Ken Schwaber and Jeff Sutherland developed Scrum; the Scrum Guide is written and provided by them. Together, they stand behind the Scrum Guide.
 
 スクラムは、複雑なプロダクトを開発・維持するためのフレームワークである。
 本ガイドでは、スクラムの定義を説明する。
@@ -25,7 +25,7 @@
 スクラムの役割、イベント、成果物、そして、それらをまとめるルールが含まれる。
 スクラムは、
 Ken SchwaberとJeff Sutherlandによって開発された。
-スクラムガイドは、この両者が執筆・提供・支援するものである。
+スクラムガイドは、この両者が共に執筆・提供・支援するものである。
 
 // Scrum Overview
 ! スクラムの概要
@@ -91,13 +91,12 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 // Scrum is founded on empirical process control theory, or empiricism. 
 // Empiricism asserts 
-//	that knowledge comes from experience and 
-//	making decisions based what is true and known. 
+//	that knowledge comes from 
+// 	experience and making decisions based on what is known. 
 // Scrum employs an iterative, incremental approach to optimize predictability and control risk. 
 
 スクラムは、経験的プロセス制御の理論（経験主義）を基本にしている。
-経験主義とは、
-経験をしたり事実や既知に基づく判断をしたりすることによって、
+経験主義とは、実際に経験したり既知のものから判断したりすることによって、
 知識が獲得できるというものである。
 スクラムでは、
 反復的で漸進的な手法を用いて、
@@ -209,7 +208,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 // The Scrum Team
 ! スクラムチーム
 
-// The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross functional. Self-organizing teams choose how best to accomplish their work, 
+// The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, 
 // 	rather than being directed by others outside the team. 
 // Cross-functional teams have 
 // 	all competencies needed to accomplish the work 
@@ -226,7 +225,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 スクラムにおけるチームのモデルは、
 柔軟性・創造性・生産性に最適化されたものとなっている。
 
-// Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of ""Done"" product ensure a potentially useful version of working product is always available.
+// Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of "Done" product ensure a potentially useful version of working product is always available.
 
 スクラムチームは、
 プロダクトを反復的・漸進的に届ける。
@@ -237,7 +236,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 // The Product Owner
 !! プロダクトオーナー
 
-// The Product Owner is responsible for maximizing the value the product 
+// The Product Owner is responsible for maximizing the value of the product 
 // 	and the work of the Development Team. 
 // How this is done may vary widely across organizations, 
 //	Scrum Teams, and individuals.
@@ -330,16 +329,16 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 
 // "	Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment; 
 
-//"	Scrum recognizes no titles for Development Team members other than Developer. Regardless of the work being performed by the person, there are no exceptions to this rule;
+//"	Scrum recognizes no titles for Development Team members other than Developer,  regardless of the work being performed by the person: there are no exceptions to this rule;
 
-//"	Individuals Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole; and,
+//"	Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole; and,
 
 
 //"	Development Teams do not contain sub-teams dedicated to particular domains like testing or business analysis.
 
 * 自己組織化されている。プロダクトバックログをリリース判断可能なインクリメントに変える方法は誰も（スクラムマスターでさえも）教えてくれない。
 * 機能横断的である。インクリメントを作成するスキルをチームとしてすべて備えている。
-* メンバの肩書きは開発者しかない。ある人にしかできない作業があったとしても、このルールに例外はない。
+* ある人にしかできない作業があったとしても、メンバの肩書きは開発者しかない。このルールに例外はない。
 * メンバに専門能力や専門分野があったとしても、最終的な責任は開発チーム全体が持つ。
 * テストやビジネス分析などに特化したサブチームは存在しない。
 
@@ -350,7 +349,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 // 	small enough to remain nimble and 
 // 	large enough to complete significant work. 
 // Fewer than three Development Team members 
-// 	decrease interaction and 
+// 	decreases interaction and 
 // 	results in smaller productivity gains. 
 // Smaller Development Teams may encounter skill constraints during the Sprint, 
 // 	causing the Development Team 
@@ -433,7 +432,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 さまざまな形で開発チームを支援する。
 
 //"	Coaching the Development Team in self-organization and cross-functionality;
-//"	Teaching and leading the Development Team to create high value products;
+//"	Teaching and leading the Development Team to create high-value products;
 //"	Removing impediments to the Development Team's progress;
 //"	Facilitating Scrum events as requested or needed; and,
 //"	Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
@@ -511,13 +510,13 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 開発作業を行う連続した期間である。
 スプリントが終了すると、新しいスプリントが開始する。
 
-//Sprints contain and consist of the Sprint Planning Meeting, Daily Scrums, the development work, the Sprint Review, and the Sprint Retrospective. 
+//Sprints contain and consist of the Sprint Planning Meeting, Daily Scrums, the development work, the Sprint Review Meeting, and the Sprint Retrospective. 
 
 スプリントは、
 スプリント計画ミーティング・
 デイリースクラム・
 開発作業・
-スプリントレビュー・
+スプリントレビューミーティング・
 スプリントレトロスペクティブ
 で構成される。
 
@@ -551,9 +550,8 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 // 	the definition of what is being built may change, 
 // 	complexity may rise, and risk may increase. 
 // Sprints enable predictability 
-// 	to inspection and adaptation progress 
-// 	toward a goal 
-// 	at least every calendar month. 
+// 		by ensuring inspection and adaptation of progress 
+// 		toward a goal at least every calendar month.
 // Sprints also limit risk to one calendar month of cost.
 
 スプリントの期間は1か月以内である。
@@ -569,7 +567,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 !!! スプリントの中止
 
 // A Sprint can be cancelled 
-// 	before the Sprint time box is over. 
+// 	before the Sprint time-box is over. 
 // Only the Product Owner has the authority to cancel the Sprint, 
 // 	although he or she may do so under influence from the stakeholders, 
 //the Development Team, or the Scrum Master. 
@@ -584,7 +582,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	a Sprint should be cancelled 
 //	if it no longer makes sense given the circumstances. 
 //But, due to the short duration of Sprints, 
-//	it rarely makes sense to do so.
+//	cancellation rarely makes sense.
 
 スプリントゴールが古くなったらスプリントを中止する。
 会社の方向性や市場・技術の状況が変化すると、スプリントゴールが古くなってしまう。
@@ -593,12 +591,12 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 中止したからといってさほど意味をなすことはない。
 
 //When a Sprint is cancelled, any completed and "Done" Product Backlog Items are reviewed. If part of the work is potentially shippable, the Product Owner typically accepts it. 
-// All incomplete Product Backlog Items are re-estimated put back on the Product Backlog. The work done on them depreciates quickly and must be frequently re-estimated. 
+// All incomplete Product Backlog Items are re-estimated and put back on the Product Backlog. The work done on them depreciates quickly and must be frequently re-estimated. 
 
 スプリントを中止したら、
 プロダクトバックログの「完了」した項目をレビューする。
 出荷判断可能なものであれば、プロダクトオーナーが受け入れる。
-未完成のものは、プロダクトバックログに戻す。
+未完成のものは、再見積もりしてから、プロダクトバックログに戻す。
 かかった作業は失われたものとなるので、
 再見積もりが必要になることが多い。
 
@@ -656,13 +654,13 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //In this part, 
 //	the Development Team works to forecast the functionality 
 //	that will be developed during the Sprint. 
-//The Product Owner presents the top priority Product Backlog items to the Development Team 
+//The Product Owner presents ordered Product Backlog items to the Development Team 
 //	and the entire Scrum Team collaborates on understanding the work of the Sprint. 
 
 第1部では、
 開発チームがスプリントで開発する機能を計画する。
 プロダクトオーナーが
-プロダクトバックログの優先項目を開発チームに渡し、
+順番の付けられたプロダクトバックログを開発チームに渡し、
 スクラムチーム全体で協力して、
 スプリントの作業を理解する。
 
@@ -701,7 +699,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	the Development Team decides 
 //	how it will build this functionality into a "Done" product Increment during the Sprint. 
 //The Product Backlog items selected for this Sprint 
-//	plus the plan for delivering them is called the Sprint Backlog
+//	plus the plan for delivering them is called the Sprint Backlog.
 
 スプリントの作業を選択したら、
 その機能を「完了」プロダクトインクリメントにする方法を
@@ -894,7 +892,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //Sprint Review
 !! スプリントレビュー
 
-//A Sprint Review meeting is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. 
+//A Sprint Review Meeting is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. 
 //During the Sprint Review, 
 //	the Scrum Team and stakeholders collaborate about 
 //		what was done in the Sprint. 
@@ -902,7 +900,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	attendees collaborate on the next things that could be done. 
 //This is an informal meeting, and the presentation of the Increment is intended to elicit feedback and foster collaboration.
 
-スプリントレビューは、スプリントの終わりにインクリメントの検査と、
+スプリントレビューミーティングは、スプリントの終わりにインクリメントの検査と、
 必要であればプロダクトバックログの適応を行うものである。
 スプリントレビューでは、
 スクラムチームと関係者が、スプリントの作業についてレビューする。
@@ -981,7 +979,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //The Scrum Master encourages the Scrum Team to improve, within the Scrum process framework, its development process and practices to make it more effective and enjoyable for the next Sprint. 
 //During each Sprint Retrospective, 
 //	the Scrum Team plans ways to increase product quality 
-//		by expanding the Definition of "Done" as appropriate.
+//		by adapting the Definition of "Done" as appropriate.
 
 スクラムマスターは、
 スクラムプロセスフレームワークの
@@ -989,7 +987,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 次のスプリントで楽しめるように、
 スクラムチームに改善を働きかける。
 開発チームは、
-「完了」の定義を適切に拡張して、
+「完了」の定義を適切に調整して、
 プロダクトの品質を向上させる方法を計画する。
 
 
@@ -999,7 +997,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //Implementing these improvements in the next Sprint is 
 //		the adaptation to the inspection of the Development Team itself. 
 //Although improvements may be implemented at any time, 
-//	the Sprint Review provides a dedicated event focused on inspection and adaptation.
+//	the Sprint Retrospective provides a dedicated event focused on inspection and adaptation.
 
 
 スプリントレトロスペクティブが終わるまでに、
@@ -1061,11 +1059,11 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 適切で競争力のある有用なプロダクトに必要なものを求めて、絶えず変化する。
 プロダクトが存在する限り、プロダクトバックログは不滅である。
 
-//The Product Backlog lists all features, functions, requirements, enhancements, and bug fixes that constitute the changes to be made to the product in future releases. Product Backlog items 
+//The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product in future releases. Product Backlog items 
 //	have the attributes of a description, order, and estimate. 
 
 プロダクトバックログは、
-今後のリリースで実装するプロダクトのフィーチャ・機能・要求・要望・バグフィックスをすべて一覧にしている。
+今後のリリースで実装するプロダクトのフィーチャ・機能・要求・要望・修正をすべて一覧にしている。
 プロダクトバックログの項目には、
 詳細・並び順・見積もりの属性が設けられている。
 
@@ -1124,7 +1122,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 また、項目をグループにまとめる属性が追加される。
 
 //Product backlog grooming is 
-//	the act of adding detail, estimates, and priority to items 
+//	the act of adding detail, estimates, and order to items 
 //	in the Product Backlog. 
 //This is an ongoing process 
 //	in which the Product Owner and the Development Team collaborate 
@@ -1134,7 +1132,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	they can be updated at any time by the Product Owner or 
 //	at the Product Owner's discretion. 
 
-プロダクトバックログの項目に詳細の追加・見積もり・優先付けを行うことを、
+プロダクトバックログの項目に詳細の追加・見積もり・並び替えを行うことを、
 プロダクトバックログの手入れと呼ぶ。
 これは、
 プロダクトオーナーと開発チームが協力して行う継続的なプロセスである。
@@ -1268,7 +1266,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //	can change its Sprint Backlog during a Sprint. 
 //The Sprint Backlog 
 //	is a highly visible, 
-//	real time picture of the work 
+//	real-time picture of the work 
 //		that the Development Team plans to accomplish during the Sprint, 
 //		and it belongs solely to the Development Team.
 
@@ -1311,7 +1309,7 @@ Ken SchwaberとJeff Sutherlandによって開発された。
 //The Increment is the sum of all the Product Backlog items 
 //	completed during a Sprint and all previous Sprints. 
 //At the end of a Sprint, 
-//	the new Increment must be ""Done"", 
+//	the new Increment must be "Done", 
 //	which means it must be in useable condition and 
 //		meet the Scrum Team's Definition of "Done". 
 //It must be in useable condition 
@@ -1458,9 +1456,8 @@ KenとJeffがスクラムを数年間適用した経験から学んだことを�
 これらは状況によって変化するからだ。
 今後は、我々の経験の「ベストプラクティス」を提供したいと考えている。
 
-// The Scrum Guide document the Scrum 
-// 	that Jeff Sutherland and Ken Schwaber developed and 
-// 	have sustained for twenty + years. 
+// The Scrum Guide documents Scrum 
+//   as developed and sustained for twenty + years by Jeff Sutherland and Ken Schwaber.
 // Other sources provide you with patterns, processes, 
 // 	and insights about how the practices, facilitations, and tools 
 // 	that complement the Scrum framework. 
@@ -1501,6 +1498,7 @@ Jeff SutherlandとKen Schwaberが開発した
 
 
 // ! 翻訳更新履歴
+// * 2011-08-02    Update for repaired version
 // * 2011-07-31    Reviewed by @kawaguti
 // * 2011-07-31    Reviewed by @sunaot
 // * 2011-07-29    Reviewed by @takaesu0

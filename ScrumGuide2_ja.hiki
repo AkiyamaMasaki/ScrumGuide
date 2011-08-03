@@ -57,7 +57,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 
 スクラムは、1990年代初頭から複雑なプロダクト開発の管理に使用されてきたプロセスフレームワークである。
 プロダクトを構築するプロセスや技法ではなく、
-さまざまなプロセスや技法を取り入れることのできるフレームワークだ。
+さまざまなプロセスや技法を取り入れることのできるフレームワークである。
 プロダクト管理や開発プラクティスの相対的効果を明確にすることで、
 改善を可能にするのである。
 
@@ -101,7 +101,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 知識が獲得できるというものである。
 スクラムでは、
 反復的で漸進的な手法を用いて、
-予測可能性の最適化とリスク管理を行う。
+予測可能性の最適化とリスクの管理を行う。
 
 
 // Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
@@ -120,7 +120,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 経験的プロセスで重要なのは、
 結果責任を持つ者に対して見える化されていることである。
 透明性とは、この点が標準化され、
-関係者が共通理解を持つことである。
+関係者全員が共通理解を持つことである。
 
 // For example:
 例：
@@ -130,7 +130,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	must be shared by those performing the work and those accepting the work product.
 
 * プロセスを指す用語が、関係者全員で共有されていなければならない。
-* 「完了」の定義[1]が、作業をする人と成果物を受け取る人で共有されていなければならない。
+* 「完了（Done）」の定義[1]が、作業をする人と成果物を受け取る人で共有されていなければならない。
 
 // See "Definition of "Done"", p. 15. 
 [1] 15ページの『「完了」の定義』を参照。
@@ -151,9 +151,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 成果物や進捗がゴールに向かっているかを
 頻繁に検査しなければならない。
 ただし、検査を頻繁にやりすぎて作業の妨げになってはいけない。
-検査は、
 熟練の検査人が念入りに行うことで、
-最大の効果をもたらすものである。
+検査は最大の効果をもたらすものである。
 
 // Adaptation
 !! 適応
@@ -194,7 +193,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スクラムは、複雑なプロダクト開発を支援するためのフレームワークである。
 // ★以降、前に出現。同じもの。
 スクラムは、
-スクラムチームとその役割・役割・イベント・成果物・ルールで構成される。
+スクラムチームとその役割・イベント・成果物・ルールで構成される。
 それぞれに目的があり、
 スクラムの利用や成功に欠かせないものである。
 
@@ -218,9 +217,9 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 
 スクラムチームは、
 プロダクトオーナー・開発チーム・スクラムマスターで構成される。
-スクラムチームは、自己組織化されており、機能横断的である。
-自己組織化されたチームは、
-作業を成し遂げるための最善の策を、チーム外からの指示ではなく、自ら選択する。
+スクラムチームは自己組織化されており、機能横断的である。
+自己組織化チームは、
+作業を成し遂げるための最善の策を、チーム外からの指示ではなく、自らが選択する。
 機能横断的チームは、
 チーム外に頼らずに作業を成し遂げる能力を持っている。
 スクラムにおけるチームのモデルは、
@@ -337,9 +336,9 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 
 //"	Development Teams do not contain sub-teams dedicated to particular domains like testing or business analysis.
 
-* 自己組織化されている。プロダクトバックログをリリース判断可能なインクリメントに変える方法は誰も（スクラムマスターでさえも）教えてくれない。
+* 自己組織化されている。プロダクトバックログをリリース判断可能なインクリメントに変える方法は、誰も（スクラムマスターでさえも）教えてくれない。
 * 機能横断的である。インクリメントを作成するスキルをチームとしてすべて備えている。
-* ある人にしかできない作業があったとしても、メンバの肩書きは開発者しかない。このルールに例外はない。
+* ある人にしかできない作業があったとしても、メンバの肩書きは開発者だけである。このルールに例外はない。
 * メンバに専門能力や専門分野があったとしても、最終的な責任は開発チーム全体が持つ。
 * テストやビジネス分析などに特化したサブチームは存在しない。
 
@@ -366,14 +365,13 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 重要な作業が成し遂げられる程度に多い人数である。
 開発チームのメンバが3人未満の場合は、
 相互作用が少なく、生産性の向上につながらない。
-また、チームの規模が小さいと、
-スキル不足という理由から、
-スプリントで出荷判断可能なインクリメントを届けられない可能性もある。
-メンバが9人を超える場合は、調整の機会が多くなってしまう。
+また、チームの規模が小さいと、スキル不足が原因で
+出荷判断可能なインクリメントをスプリントで届けられない可能性もでてくる。
+メンバが9人を超えた場合は、調整の機会が多くなってしまう。
 また、チームの規模が大きいと、
 経験的プロセスの管理が複雑になってしまう。
 スプリントバックログの作業に携わらないのであれば、
-プロダクトオーナーとスクラムマスターはこの人数には含まない。
+プロダクトオーナーとスクラムマスターはこの人数には含まれない。
 
 // The Scrum Master
 !! スクラムマスター
@@ -396,11 +394,11 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	to maximize the value created by the Scrum Team.
 
 スクラムマスターは、
-スクラムチームとの対話で役に立つこと／立たないことを
+スクラムチームとのやり取りで役に立つこと／立たないことを
 スクラムチームの外部の人たちに理解してもらうようにする。
 スクラムマスターは、
-みんなの相互作用の変化を手伝い、
-スクラムチームの作る価値を最大化する。
+みんなのやり取りを変えてもらうことで、
+スクラムチームの作る価値を最大化するのである。
 
 //Scrum Master Service to the Product Owner
 !!! プロダクトオーナーの支援
@@ -420,7 +418,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 * 効果的なプロダクトバックログの管理方法を探す。
 * ビジョン・ゴール・プロダクトバックログの項目を明確に開発チームに伝える。
 * プロダクトバックログの項目を明確・簡潔に作る方法を開発チームに教える。
-* 経験主義の環境における長期のプロダクト計画について理解する。
+* 経験主義における長期のプロダクト計画について理解する。
 * アジャイルを理解・実践する。
 * 要望・必要に応じてスクラムイベントをファシリテートする。
 
@@ -438,11 +436,11 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //"	Facilitating Scrum events as requested or needed; and,
 //"	Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
 
-* 自己組織化され機能横断的な開発チームにコーチする。
+* 自己組織化・機能横断的な開発チームをコーチする。
 * 高価値のプロダクトを作る方法を開発チームに教育・指導する。
 * 開発チームの進捗を妨げるものを排除する。
 * 要望・必要に応じてスクラムイベントをファシリテートする。
-* スクラムがまだ完全に適用・理解されていない組織環境では、開発チームをコーチする。
+* スクラムがまだ完全に適用・理解されていない組織環境で、開発チームをコーチする。
 
 //Scrum Master Service to the Organization
 !!! 組織の支援
@@ -462,7 +460,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 * 組織にあったスクラムの推進方法を計画する。
 * スクラムと経験的プロダクト開発を従業員や関係者に理解・実施してもらう。
 * スクラムチームの生産性を高めるような変化を促す。
-* 他のスクラムマスターと一緒に組織のスクラム導入の効果を高める。
+* 他のスクラムマスターと一緒に組織へのスクラム導入の効果を高める。
 
 //Scrum Events
 ! スクラムイベント
@@ -476,9 +474,10 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 
 スクラムでは、
 イベントを設けて規則性を作り出し、
-スクラムで定義されていない会議の必要性を最小限にしている。
+スクラムで定義されていないミーティングの必要性を最小化している。
 イベントには、時間に上限のあるタイムボックスを使う。
-これは、計画プロセスで時間を無駄にせず、必要な分だけ時間を使うようにするためである。
+これは、計画プロセスで時間を無駄にせず、
+必要な分だけ時間を使うようにするためである。
 
 //Other than the Sprint itself, 
 //	which is a container for all other events, 
@@ -493,10 +492,10 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スプリント以外のすべてのスクラムイベントは、
 何かを検査・適応する機会である（スプリントはその他のイベントの入れ物である）。
 これらのイベントは、
-重要な透明性や検査を実現できるように設計されている。
+重要な透明性や検査が実現できるように設計されている。
 これらのイベントがなければ、
 透明性は低下し、
-検査・適応の多くの機会を失うのである。
+検査・適応の機会の多くを失うのである。
 
 //The Sprint
 !! スプリント
@@ -509,7 +508,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 これは、「完了」した、動作する、リリース判断可能なプロダクトのインクリメントを作るための、1か月以下のタイムボックスである。
 スプリントは、
 開発作業を行う連続した期間である。
-スプリントが終了すると、新しいスプリントが開始する。
+スプリントが終了すると、新しいスプリントが開始される。
 
 //Sprints contain and consist of the Sprint Planning Meeting, Daily Scrums, the development work, the Sprint Review Meeting, and the Sprint Retrospective. 
 
@@ -528,8 +527,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //"	Development Team composition and quality goals remain constant; and,
 //"	Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
 
-* スプリントゴールに影響する変更を加えない。
-* 開発チームの編成と品質目標に変更を加えない。
+* スプリントゴールに影響するような変更を加えない。
+* 開発チームの編成や品質目標を維持する。
 * 学習が進むにつれて、スコープが明確化され、プロダクトオーナーと開発チームの交渉が必要になる可能性がある。
 
 //Each Sprint may be considered a project 
@@ -597,7 +596,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スプリントを中止したら、
 プロダクトバックログの「完了」した項目をレビューする。
 出荷判断可能なものであれば、プロダクトオーナーが受け入れる。
-未完成のものは、再見積もりしてから、プロダクトバックログに戻す。
+未完成のものは、再見積もりをしてから、プロダクトバックログに戻す。
 かかった作業は失われたものとなるので、
 再見積もりが必要になることが多い。
 
@@ -606,8 +605,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	to start another Sprint. 
 //Sprint cancellations are often traumatic to the Scrum Team, and are very uncommon.
 
-スプリントが中止になると、
-新しいスプリント向けのスプリント計画ミーティングが必要となり、
+スプリントが中止されると、
+新しいスプリントのスプリント計画ミーティングが必要となり、
 それを開催するリソースを消費してしまう。
 スプリントの中止によって、チームのトラウマになることもある。
 しかし、中止はめったに起きないことである。
@@ -732,11 +731,10 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 システムや作業の設計から始めることが多い。
 作業の規模や見積もり工数はさまざまだが、
 スプリント計画ミーティングでは、
-開発チームがスプリントで達成できると予測できる程度の作業を計画する。
+開発チームがスプリントで達成できると予測できる作業を計画する。
 スプリントの最初の数日間で開発チームが行う作業は、このミーティングで1日以下の単位に分解される。
 スプリント計画ミーティングでは、
-開発チームが自己組織化して、
-スプリントバックログの作業を受け持つ。
+開発チームが自己組織化してスプリントバックログの作業を受け持つ。
 必要であればスプリントの最中にも行う。
 
 //The Product Owner may be present during the second part of the Sprint Planning Meeting 
@@ -755,7 +753,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 開発チームとプロダクトオーナーが、
 スプリントバックログの項目について話し合う。
 開発チームは、
-技術やドメインに関して助言してくれる人たちを招待することもある。
+技術やドメインについて助言してくれる人たちを招待することもある。
 
 //By the end of the Sprint Planning meeting, the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment. 
 
@@ -763,8 +761,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スプリントゴールを達成し、
 期待されたインクリメントを作成するために、
 自己組織化チームとしてどのように作業を行うのかを、
+プロダクトオーナーとスクラムマスターに対して
 スプリント計画ミーティングの終了までに
-プロダクトオーナーとスクラムマスターに
 説明できるようにしておかなければならない。
 
 //Sprint Goal
@@ -823,7 +821,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //"	What will be done before the next meeting?
 //"	What obstacles are in the way?
 
-* 前回のデイリースクラム以降に行ったこと
+* 前回のデイリースクラムから行ったこと
 * 次回のデイリースクラムまでに行うこと
 * 問題点
 
@@ -844,25 +842,24 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	in the remainder of the Sprint.
 
 開発チームはデイリースクラムを使って、
-スプリントゴールと
-スプリントバックログの作業の進捗を評価する。
+スプリントゴールとスプリントバックログの作業の進捗を評価する。
 デイリースクラムによって、
-開発チームがスプリントゴールを達成する可能性を最適化できる。
-デイリースクラムが終わったら、
-開発チームはすぐにスプリントの残作業を再計画する。
+開発チームはスプリントゴールを達成する可能性を最適化できる。
+デイリースクラムが終わったら開発チームはすぐに集まって、
+スプリントの残作業を再計画する。
 開発チームは、
 スプリントゴールを達成し、
 期待されたインクリメントを作成するために、
 スプリントの残り時間で自己組織化チームとしてどのように作業を行うのかを、
-プロダクトオーナーとスクラムマスターに
-毎日説明しなければならない。
+プロダクトオーナーとスクラムマスターに毎日説明しなければならない。
 
 
 //The Scrum Master ensures 
 //	that the Development Team has the meeting, 
 //	but the Development Team is responsible for conducting the Daily Scrum. The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. 
 
-スクラムマスターは、開発チームがデイリースクラムを開催するようにする。
+スクラムマスターは、
+開発チームにデイリースクラムを開催してもらうようにする。
 ただし、デイリースクラムを開催する責任があるのは、開発チームである。
 スクラムマスターは、
 開発チームにデイリースクラムを15分以内に終わらせるように伝える。
@@ -904,7 +901,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スプリントレビューミーティングは、スプリントの終わりにインクリメントの検査と、
 必要であればプロダクトバックログの適応を行うものである。
 スプリントレビューでは、
-スクラムチームと関係者が、スプリントの作業についてレビューする。
+スクラムチームと関係者がスプリントの作業をレビューする。
 レビュー結果とプロダクトバックログの変更をもとにして、
 次にできることを議論する。
 これは非公式なミーティングであり、
@@ -929,7 +926,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //"	The Product Owner discusses the Product Backlog as it stands. He or she projects likely completion dates based on progress to date; and, 
 //"	The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning Meetings.
 
-* プロダクトオーナーは、「完了」したものと「完了」していないものを特定する
+* プロダクトオーナーは、「完了」したものと「完了」していないものを特定する。
 * 開発チームは、スプリントでうまくいったこと・直面した問題点・それをどのように解決したかを議論する。
 * 開発チームは、「完了」したものをデモして、インクリメントに対する質問に答える。
 * プロダクトオーナーは、現在のプロダクトバックログについて議論する。現在の進捗から完了日を予測する。
@@ -940,8 +937,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 // The Product Backlog may also be adjusted overall to meet new opportunities.
 
 スプリントレビューの成果は、
-次のスプリントで選択する可能性のある項目を定義した
-プロダクトバックログの改訂版である。
+次のスプリントで選択する可能性のある項目を定義した改訂版の
+プロダクトバックログである。
 また、新しい状況に合わせて、
 プロダクトバックログ全体を調整することもある。
 
@@ -1003,7 +1000,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 
 スプリントレトロスペクティブが終わるまでに、
 スクラムチームは次のスプリントで実施する改善策を特定しなければならない。
-これらの改善策は、開発チームの点検を適応したものだ。
+これらの改善策は、開発チームの検査に適応したものだ。
 改善はいつでも実施できるが、
 スプリントレトロスペクティブは
 検査と適応に特化したイベントである。
@@ -1147,7 +1144,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 // Often the Development Team has the domain knowledge to perform grooming itself. How and when grooming is done is decided by the Scrum Team. Grooming usually consumes no more than 10% of the capacity of the Development Team.
 
 プロダクトバックログの手入れは、
-プロダクトオーナーと開発チームがスプリントで部分的に行う活動である。
+プロダクトオーナーと開発チームが、スプリントの一環として行う活動である。
 開発チームは、手入れをするためのドメイン知識を持っている。
 いつどのように手入れをするかは、スクラムチームが決定する。
 手入れには、開発チームの作業の10%程度を消費する。
@@ -1175,15 +1172,14 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	by the desired time for the goal. 
 //This information is made transparent to all stakeholders.
 
-いずれかの時点で、
-目標に対する残作業を合計する。
+いずれかの時点で目標に対する残作業を合計する。
 プロダクトオーナーは、
 少なくともスプリントレビューにおいて、
 この合計残作業を追跡する。
 プロダクトオーナーは、
 前回のスプリントレビューの合計残作業と比較して、
 希望する時間までにゴールに到達するかどうかを評価する。
-この情報はすべての関係者に明らかにされる。
+この情報は関係者全員に明らかにされる。
 
 //Scrum does not consider the time spent working on Product Backlog Items. 
 // The work remaining and date are the only variables of interest.
@@ -1202,8 +1198,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	may be used for forward-looking decision-making.
 
 進捗の見通しを立てるために、
-バーンダウンやバーンナップなどのさまざまなプラクティスが使用されてきた。
-これらは有用であるが、経験主義の重要性を置き換えるものではない。
+バーンダウンやバーンアップなどのさまざまなプラクティスが使用されてきた。
+これらは有用ではあるが、経験主義の重要性を置き換えるものではない。
 複雑な環境下では、何が起きるかわからない。
 すでに起きたものだけが、
 これから先の意思決定に使用できる。
@@ -1364,7 +1360,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 インクリメントは実際に動くものなので、
 プロダクトオーナーはすぐにリリースできる。
 インクリメントは、
-それまでのインクリメントに追加したものであり、
+それまでのインクリメントに追加されたものであり、
 すべてが正常に動くように十分にテストされたものである。
 
 //As Scrum Teams mature, 
@@ -1372,7 +1368,7 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //	to include more stringent criteria for higher quality.
 
 成熟したスクラムチームでは、
-「完了」の定義により厳しい品質条件を追加することもある。
+「完了」の定義にさらに厳しい品質条件を追加することもある。
 
 //Conclusion
 ! 結論
@@ -1405,10 +1401,10 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 //David Starr provided key insights and editorial skills in formulating this version of the Scrum Guide.
 
 スクラムに貢献してくれた非常に多くの人たちのなかでも、
-最初の10年間に貢献してくれた人をまず挙げよう。
+最初の10年間に貢献してくれた人の名前を挙げたい。
 まず、Jeff SutherlandとJeff McKenna。
 それから、Ken SchwaberとMike SmithとChris Martin。
-翌年からは、他にも多くの人たちが貢献してくれた。
+翌年からは、その他にも多くの人たちが貢献してくれた。
 彼らの助けがなければ、スクラムは今日のように洗練されてはいなかっただろう。
 David Starrは、
 見事な見識と編集能力を
@@ -1470,14 +1466,14 @@ Jeff SutherlandとKen Schwaberが開発した
 スクラムフレームワークを補完する
 プラクティス・ファシリテーション・ツールに関する
 パターン・プロセス・見識などについては、その他の情報源が提供してくれる。
-これらは、生産性・価値・創造性・プライドを最適化するものである。
+これらは、生産性・価値・創造性・自尊心を最適化するものである。
 
 // Release notes covering the following differences 
 // 	between this and the February 2010 version 
 // 	will be published elsewhere, including discussions on:
 
 本稿と2010年2月版の違いについては、
-次のようなリリースノートをいずれどこかで公開する。
+次のようなリリースノートをいずれどこかで公開する予定だ。
 
 // 1.	Release Planning
 // 2.	Release Burndown

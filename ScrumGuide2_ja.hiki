@@ -287,15 +287,15 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 優先度を変えるにはプロダクトオーナーが納得しなければならない。
 
 // For the Product Owner to succeed, 
-//	the entire organization must respect his or her decisions. The Product Owner's decisions are visible in the content and prioritization of the Product Backlog. 
-// No one is allowed to tell the Development Team to work from a different set of priorities, and the Development Team isn't allowed to act on what anyone else says.  
+//	the entire organization must respect his or her decisions. The Product Owner's decisions are visible in the content and ordering of the Product Backlog. 
+// No one is allowed to tell the Development Team to work from a different set of requirements, and the Development Team isn't allowed to act on what anyone else says.  
 
 プロダクトオーナーが成功するには、
 組織全体でプロダクトオーナーの意見を尊重しなければならない。
 プロダクトオーナーの決定は、
-プロダクトバックログの内容や優先度という形で見える化されている。
-開発チームの作業の優先度を変更できるのは、プロダクトオーナーだけである。
-また、開発チームも他からの作業依頼を受け付けてはいけない。
+プロダクトバックログの内容や順番付けという形で見える化されている。
+開発チームに作業を依頼できるのは、プロダクトオーナーだけである。
+また、開発チームもその他からの作業依頼を受け付けてはいけない。
 
 // The Development Team
 !! 開発チーム
@@ -851,7 +851,8 @@ Ken SchwaberとJeff Sutherlandによって開発されたものである。
 スプリントゴールを達成し、
 期待されたインクリメントを作成するために、
 スプリントの残り時間で自己組織化チームとしてどのように作業を行うのかを、
-プロダクトオーナーとスクラムマスターに毎日説明しなければならない。
+プロダクトオーナーとスクラムマスターに毎日
+説明できるようにしておかなければならない。
 
 
 //The Scrum Master ensures 
@@ -1495,6 +1496,7 @@ Jeff SutherlandとKen Schwaberが開発した
 
 
 // ! 翻訳更新履歴
+// * 2011-08-17    8/15版に追従
 // * 2011-08-03    Reviewed by @takaesu0
 // * 2011-08-02    Update for repaired version
 // * 2011-07-31    Reviewed by @kawaguti
